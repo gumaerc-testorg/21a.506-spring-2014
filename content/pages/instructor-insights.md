@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: c74854e2-c1e6-4792-73e1-cba8d620dfb5
 ---
@@ -61,20 +63,6 @@ None.
 ### Offered
 
 This course was only offered in Spring 2014.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A well-lit, medium-sized room with open windows and four rows of desks and chairs.]({{< resource_file 030d7514-9a24-d5e8-9d5a-c5093aaad8ed >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    This course was taught in a medium-sized classroom equipped with a chalkboard and a LCD video projector.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
