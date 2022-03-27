@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2f835620-e0c1-cf80-adb7-f9588370fab7
 resourcetype: Document
 title: '21A.506S14 The Business of Politics - Assignments: Task 5 Student Example'
 uid: d666c395-3a06-43eb-48d0-78186491a2ac

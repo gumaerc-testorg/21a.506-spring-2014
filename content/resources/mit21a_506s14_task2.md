@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2f835620-e0c1-cf80-adb7-f9588370fab7
 resourcetype: Document
 title: MIT21A_506S14_Task2.pdf
 uid: 5825352d-8fa6-a8b3-f2cd-1d16084bbc0f
