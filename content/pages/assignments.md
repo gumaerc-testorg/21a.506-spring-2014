@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides details on the research project required for the
+  course, including goals, grading criteria, and tasks. Examples of student work are
+  also provided.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -27,21 +30,21 @@ Your work will be graded according to the following criteria:
 Tasks
 -----
 
-[Task 1: Written report – Knowing the rules (PDF)]({{< baseurl >}}/resources/mit21a_506s14_task1)
+{{% resource_link 9fe5d5ec-0a4d-5023-e564-daf74a2dfcce "Task 1: Written report – Knowing the rules (PDF)" %}}
 
-[Task 2: Written report – Political histories (PDF)]({{< baseurl >}}/resources/mit21a_506s14_task2)
+{{% resource_link 5825352d-8fa6-a8b3-f2cd-1d16084bbc0f "Task 2: Written report – Political histories (PDF)" %}}
 
-[Task 3: Written report – Media platforms and political attitudes (PDF)]({{< baseurl >}}/resources/mit21a_506s14_task3)
+{{% resource_link c977dbf4-3e5e-1c44-89d3-1e47c5e550b8 "Task 3: Written report – Media platforms and political attitudes (PDF)" %}}
 
-[Task 4: Campaign strategy report and presentations (PDF)]({{< baseurl >}}/resources/mit21a_506s14_task4)
+{{% resource_link c6de7a6f-3373-741f-ce27-55946dd92ce6 "Task 4: Campaign strategy report and presentations (PDF)" %}}
 
-[Task 5: Final reports (PDF)]({{< baseurl >}}/resources/mit21a_506s14_task5)
+{{% resource_link e16efc36-a344-70c6-8e1e-03f1a7209ac6 "Task 5: Final reports (PDF)" %}}
 
 Student Examples
 ----------------
 
-[Task 4: A eleição presidencial brasileira. "Brazilian Presidential Election" 2014 (PDF)]({{< baseurl >}}/resources/mit21a_506s14_task4studnt)
+{{% resource_link 09254af1-8fec-1951-7028-93a8696e4efa "Task 4: A eleição presidencial brasileira. \"Brazilian Presidential Election\" 2014 (PDF)" %}}
 
-[Task 5: Campaign Strategy for Brazilian 2014 Presidential elections - Campos/Silva ticket (PDF)]({{< baseurl >}}/resources/mit21a_506s14_task5studnt)
+{{% resource_link d666c395-3a06-43eb-48d0-78186491a2ac "Task 5: Campaign Strategy for Brazilian 2014 Presidential elections - Campos/Silva ticket (PDF)" %}}
 
 The examples above appear courtesy of a MIT student and appear anonymously upon request.
