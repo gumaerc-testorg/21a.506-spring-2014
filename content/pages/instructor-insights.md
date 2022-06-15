@@ -1,14 +1,15 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: c74854e2-c1e6-4792-73e1-cba8d620dfb5
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _21A.506 The Business of Politics: A View of Latin America_ as it was taught by instructor Maria Vidart-Delgado in Spring 2014.
 
@@ -16,27 +17,25 @@ This course examined the birth and international expansion of an American indust
 
 By looking at the debates and expert practices at the core of the business of politics, the course explored how the "universal" concept of democracy is interpreted and reworked through space and time. It also examined how different cultural groups experimenting with political marketing understand the role of citizens in a democracy.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
-*   Identify the main features of liberalism and liberalization in Latin America.
-*   Learn key debates about public formation and civic engagement in the age of mass media.
-*   Acquire research skills to relate specific ethnographic material to broader political and cultural processes.
+- Identify the main features of liberalism and liberalization in Latin America.
+- Learn key debates about public formation and civic engagement in the age of mass media.
+- Acquire research skills to relate specific ethnographic material to broader political and cultural processes.
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
 {{< quote "The wonderful thing about a class like this one is that it focuses a lot on media." "—Maria Vidart-Delgado" >}}
 
-_Below, Maria Vidart-Delgado describes various aspects of how she taught _21A.506 The Business of Politics: A View of Latin America_._
+_Below, Maria Vidart-Delgado describes various aspects of how she taught_ 21A.506 The Business of Politics: A View of Latin America.
 
 ### Engaging Students in Discussions
 
-The wonderful thing about a class like this one is that it focuses a lot on media. One strategy I used to engage students in classroom discussions was to show YouTube clips of different Latin American politicians—mainly presidential candidates—so that students could observe different political communication styles. I routinely asked them questions, such as “Why do think, in this campaign, they chose this specific image? Who are they talking to? Who is the audience? Why does this message make sense in this country? Let’s think about the history of the country. Why is this relevant?” These questions were automatic conversation starters. In fact, students shared that before taking the class, they did not know how much went into producing political campaign ads; after the course, they began to see political ads with new eyes.
+The wonderful thing about a class like this one is that it focuses a lot on media. One strategy I used to engage students in classroom discussions was to show YouTube clips of different Latin American politicians—mainly presidential candidates—so that students could observe different political communication styles. I routinely asked them questions, such as “Why do you think, in this campaign, they chose this specific image? Who are they talking to? Who is the audience? Why does this message make sense in this country? Let’s think about the history of the country. Why is this relevant?” These questions were automatic conversation starters. In fact, students shared that before taking the class, they did not know how much went into producing political campaign ads; after the course, they began to see political ads with new eyes.
 
 ### {{< anchor "project" >}}{{< /anchor >}}Assessing the Semester-Long Research Project
 
@@ -48,8 +47,7 @@ During the class, I also provided feedback about how students were analyzing the
 
 If I teach this class again—and I would love to teach it again—I would be more explicit about how the themes of the course are connected. This is especially important for classes in which students with varying levels of experience are learning together. For example, I had both freshmen and juniors in this iteration of the seminar. They came with different levels of exposure to the themes in the curriculum. Being more explicit about how the themes are connected would make the class more accessible to a variety of learners.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -57,8 +55,8 @@ None.
 
 ### Requirements Satisfied
 
-*   HASS-S ![](/images/educator/icon-question-hass-s.png)
-*   21A.506 can be applied toward a Bachelor of Science in [Anthropology, Humanities and Engineering, or Humanities and Science](http://web.mit.edu/anthropology/undergraduate/requirements.html), but is not required for any of these.
+- HASS-S ![](/images/educator/icon-question-hass-s.png)
+- 21A.506 can be applied toward a Bachelor of Science in [Anthropology, Humanities and Engineering, or Humanities and Science](http://web.mit.edu/anthropology/undergraduate/requirements.html), but is not required for any of these.
 
 ### Offered
 
@@ -66,8 +64,7 @@ This course was only offered in Spring 2014.
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -76,13 +73,13 @@ The students' grades were based on the following activities:
 - 20% Final report (Task 5)
 - 5% Class participation
 
-
 Read more of the instructor's thoughts on [assessing the research project](#project) below.
 
-Student Information
--------------------
+## Student Information
 
-![Fewer than 10 students took this course when it was offered in Spring 2014.]({{< resource_file 8fc56fc8-94f0-07ca-624c-79806240b779 >}})
+### Enrollment
+
+Fewer than 10 students
 
 ### Breakdown by Year
 
@@ -98,20 +95,17 @@ Having between five and ten students is ideal for a course like this one. The cl
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 13 hours on the course, roughly divided as follows:
 
-Seminar
--------
+### Seminar
 
-*   Met twice a week for 1.5 hours per session; 26 sessions total; mandatory attendance.
-*   All students were expected to complete the readings, and participate in class discussions and activities. Activities included exercises, such as explaining how one would design political polls and surveys to understand the political culture of a particular country.
+- Met twice a week for 1.5 hours per session; 26 sessions total; mandatory attendance.
+- All students were expected to complete the readings, and participate in class discussions and activities. Activities included exercises, such as explaining how one would design political polls and surveys to understand the political culture of a particular country.
 
-Out of Class
-------------
+### Out of Class
 
-*   Readings in preparation for class sessions
-*   Five written reports
-*   One presentation
+- Readings in preparation for class sessions
+- Five written reports
+- One presentation
