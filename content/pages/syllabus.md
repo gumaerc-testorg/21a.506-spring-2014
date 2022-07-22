@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, objectives, methodology, assignments, grading policy,
+  student responsibilities, and reading materials.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: c2f83148-0839-2700-beaf-62cf52ae7bc3
 ---
@@ -42,7 +47,7 @@ The students will develop a semester long research project that will be divided 
 
 _Goal:_ You will pretend to be the international political consultant for a presidential political campaign in a **Latin American country of your choice.** The goal of the project is to design a plausible campaign strategy for the political context you have chosen. The last week of class you will present your results to the rest of the class.
 
-For further detail, please see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For further detail, please see the {{% resource_link 2f835620-e0c1-cf80-adb7-f9588370fab7 "Assignments" %}} section.
 
 Grading Policy
 --------------
@@ -137,4 +142,4 @@ Dezalay, Yves, and Bryant G. Garth. _The Internationalization of Palace Wars: La
 
 Harding, James. _Alpha Dogs: The Americans who Turned Political Spin into a Global Business_. Farrar, Strauss and Giroux, 2009. ISBN: 9780374531751.
 
-Remaining readings are detailed in the [Readings]({{< baseurl >}}/pages/readings) section.
+Remaining readings are detailed in the {{% resource_link dcfaa0ff-6331-aeaf-fd5e-109eabcc6647 "Readings" %}} section.
