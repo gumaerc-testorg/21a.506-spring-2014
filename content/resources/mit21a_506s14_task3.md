@@ -6,6 +6,7 @@ file: /courses/21a-506-the-business-of-politics-a-view-of-latin-america-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT21A_506S14_Task3.pdf
 uid: c977dbf4-3e5e-1c44-89d3-1e47c5e550b8
 ---
 This file contains information regarding task 1: written report–knowing the rules.
-

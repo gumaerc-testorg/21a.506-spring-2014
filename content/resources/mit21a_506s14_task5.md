@@ -6,6 +6,7 @@ file: /courses/21a-506-the-business-of-politics-a-view-of-latin-america-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT21A_506S14_Task5.pdf
 uid: e16efc36-a344-70c6-8e1e-03f1a7209ac6
 ---
 This file contains information regarding task 3: written report–media platforms and political attitudes.
-

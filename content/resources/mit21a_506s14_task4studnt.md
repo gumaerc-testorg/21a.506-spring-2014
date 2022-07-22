@@ -6,6 +6,7 @@ file: /courses/21a-506-the-business-of-politics-a-view-of-latin-america-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '21A.506S14 The Business of Politics - Assignments: Task 4 Student Exampl
 uid: 09254af1-8fec-1951-7028-93a8696e4efa
 ---
 This resource contains the information regarding a eleicao presidencial brasileira brazilian presidential election
-
