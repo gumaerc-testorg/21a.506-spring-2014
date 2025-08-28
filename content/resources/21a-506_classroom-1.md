@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21a-506-the-business-of-politics-a-view-of-latin-america-spring-2014/030d75149a24d5e89d5ac5093aaad8ed_21A-506_classroom-1.jpg
+file: /ol-ocw-studio-app/courses/21a-506-the-business-of-politics-a-view-of-latin-america-spring-2014/030d75149a24d5e89d5ac5093aaad8ed_21A-506_classroom-1.jpg
 file_size: 62553
 file_type: image/jpeg
 image_metadata:
