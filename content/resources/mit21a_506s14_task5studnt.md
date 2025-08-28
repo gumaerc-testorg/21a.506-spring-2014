@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21a-506-the-business-of-politics-a-view-of-latin-america-spring-2014/d666c3953a0643eb48d078186491a2ac_MIT21A_506S14_Task5Studnt.pdf
+file: /ol-ocw-studio-app/courses/21a-506-the-business-of-politics-a-view-of-latin-america-spring-2014/d666c3953a0643eb48d078186491a2ac_MIT21A_506S14_Task5Studnt.pdf
 file_size: 734083
 file_type: application/pdf
 learning_resource_types:
