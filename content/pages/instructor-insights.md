@@ -56,7 +56,7 @@ None.
 ### Requirements Satisfied
 
 - HASS-S ![](/images/educator/icon-question-hass-s.png)
-- 21A.506 can be applied toward a Bachelor of Science in [Anthropology, Humanities and Engineering, or Humanities and Science](http://web.mit.edu/anthropology/undergraduate/requirements.html), but is not required for any of these.
+- 21A.506 can be applied toward a Bachelor of Science in {{% resource_link "5eef8d0a-fb7b-482d-a5b4-adbff21a5c9d" "Anthropology, Humanities and Engineering, or Humanities and Science" %}}, but is not required for any of these.
 
 ### Offered
 
